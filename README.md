@@ -7,10 +7,10 @@
 Kotlin
 
 # 3rd Lib
-Glide
-realm
-com.github.florent37:camerafragment
-com.github.prolificinteractive:material-calendarview
+Glide</br>
+realm</br>
+com.github.florent37:camerafragment</br>
+com.github.prolificinteractive:material-calendarview</br>
 
 
 ![2019-01-03 11 33 30](https://user-images.githubusercontent.com/9444173/50621841-0b1ea680-0f4c-11e9-8104-2edd65d87ef1.jpg)
