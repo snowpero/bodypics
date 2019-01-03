@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">camera_sample</string>
+
+    <string name="date_format">yyyy년 MM월 dd일 E요일 HH:mm</string>
+
+    <string name="transition_name_img">tr_img</string>
+
+</resources>
